@@ -1,0 +1,2 @@
+# gitnotes
+basic git commands
