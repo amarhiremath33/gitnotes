@@ -1,0 +1,63 @@
+Sure! Here are some basic Git commands along with examples:
+
+1. **git init**: Initializes a new Git repository.
+   ```
+   git init
+   ```
+
+2. **git clone**: Clones a repository into a new directory.
+   ```
+   git clone <repository_url>
+   ```
+
+3. **git add**: Adds changes to the staging area.
+   ```
+   git add <file_name>
+   ```
+
+4. **git commit**: Records changes to the repository.
+   ```
+   git commit -m "Commit message"
+   ```
+
+5. **git status**: Displays the status of the working directory and staging area.
+   ```
+   git status
+   ```
+
+6. **git push**: Pushes changes to a remote repository.
+   ```
+   git push origin <branch_name>
+   ```
+
+7. **git pull**: Fetches changes from a remote repository and merges them into the current branch.
+   ```
+   git pull origin <branch_name>
+   ```
+
+8. **git branch**: Lists all branches in the repository.
+   ```
+   git branch
+   ```
+
+9. **git checkout**: Switches branches or restores working tree files.
+   ```
+   git checkout <branch_name>
+   ```
+
+10. **git merge**: Combines the specified branch’s history into the current branch.
+   ```
+   git merge <branch_name>
+   ```
+
+11. **git log**: Displays the commit history.
+   ```
+   git log
+   ```
+          
+12. **git remote**: Manages connections to remote repositories.
+   ```
+   git remote add origin <repository_url>
+   ```
+
+These are some of the basic Git commands. They form the foundation for managing version control in Git.
